@@ -14,7 +14,7 @@ func main() {
 
     c := make(chan bool,1)
     go executar(c)
-    fmt.Println("Esperando...")
+    fmt.Println("Esperandoooo...")
 
     fim := false
 
