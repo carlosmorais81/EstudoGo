@@ -13,7 +13,7 @@ func main() {
         os.Exit(1)
     }
 
-    unidadOrigem := os.Args[len(os.Args) -1] //entendi mais ou menos, pesquisar
+    unidadeOrigem := os.Args[len(os.Args) -1] //entendi mais ou menos, pesquisar
     valoresOrigem  := os.Args[1 : len(os.Args) -1]
 
     var unidadeDestino string
