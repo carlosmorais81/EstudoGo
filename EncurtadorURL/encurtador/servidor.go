@@ -8,10 +8,10 @@ import (
     "net/http"
     "strings"
 
-    "github.com/CarlosMorais/encurtador/url"
-    
-)
+    "github.com/CarlosMorais/EstudoGo/EncurtadorURL/url"
 
+)
+ s
 var (
     logLigado *bool
     porta     *int
